@@ -16,7 +16,7 @@
 
     <scm>
         <connection>scm:git:https://github.com/rubenqba/HeatMap.git</connection>
-        <developerConnection>scm:git:https://github.com/rubenqba/HeatMap.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:rubenqba/HeatMap.git</developerConnection>
         <url>https://github.com/rubenqba/HeatMap</url>
         <tag>HEAD</tag>
     </scm>
