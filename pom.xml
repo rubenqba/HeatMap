@@ -24,5 +24,13 @@
                 </configuration>
             </plugin>
         </plugins>
+        <resources>
+            <resource>
+                <directory>src/my-resources</directory>
+                <includes>
+                    <include>**/*.gif</include>
+                </includes>
+            </resource>
+        </resources>
     </build>
 </project>

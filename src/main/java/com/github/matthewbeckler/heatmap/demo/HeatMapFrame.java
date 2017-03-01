@@ -1,3 +1,8 @@
+package com.github.matthewbeckler.heatmap.demo;
+
+import com.github.matthewbeckler.heatmap.Gradient;
+import com.github.matthewbeckler.heatmap.HeatMap;
+
 import javax.swing.*;
 import java.awt.*;
 
