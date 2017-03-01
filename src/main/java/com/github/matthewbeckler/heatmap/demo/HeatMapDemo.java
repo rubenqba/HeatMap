@@ -10,7 +10,7 @@ import java.awt.event.*;
 /**
  * <p>This class shows the various options of the com.github.matthewbeckler.heatmap.HeatMap.</p>
  *
- * <hr />
+ * <hr>
  * <p><strong>Copyright:</strong> Copyright (c) 2007, 2008</p>
  *
  * <p>HeatMap is free software; you can redistribute it and/or modify

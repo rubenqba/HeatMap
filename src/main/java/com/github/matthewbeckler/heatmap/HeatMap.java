@@ -25,7 +25,7 @@ import javax.swing.*;
  * be plotting the data in a graphical manner, using the Java Swing framework
  * that uses the standard computer graphics coordinate system, the user's data
  * is stored internally with the y=0 row at the top.</p>
- * <p>There are a number of defined gradient types (look at the static fields),
+ * There are a number of defined gradient types (look at the static fields),
  * but you can create any gradient you like by using either of the following 
  * functions in the Gradient class:
  * <ul>
@@ -34,12 +34,11 @@ import javax.swing.*;
  * </ul>
  * You can then assign an arbitrary Color[] object to the HeatMap as follows:
  * <pre>myHeatMap.updateGradient(Gradient.createMultiGradient(new Color[] {Color.red, Color.white, Color.blue}, 256));</pre>
- * </p>
  *
  * <p>By default, the graph title, axis titles, and axis tick marks are not
  * displayed. Be sure to set the appropriate title before enabling them.</p>
  *
- * <hr />
+ * <hr>
  * <p><strong>Copyright:</strong> Copyright (c) 2007, 2008</p>
  *
  * <p>HeatMap is free software; you can redistribute it and/or modify
@@ -94,7 +93,7 @@ public class HeatMap extends JPanel
     /**
      * @param data The data to display, must be a complete array (non-ragged)
      * @param useGraphicsYAxis If true, the data will be displayed with the y=0 row at the top of the screen. If false, the data will be displayed with they=0 row at the bottom of the screen.
-     * @param colors A variable of the type Color[]. See also {@link #createMultiGradient} and {@link #createGradient}.
+     * @param colors A variable of the type Color[].
      */
     public HeatMap(double[][] data, boolean useGraphicsYAxis, Color[] colors)
     {

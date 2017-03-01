@@ -9,7 +9,7 @@ import java.awt.*;
 /**
  * <p>This class is a very simple example of how to use the HeatMap class.</p>
  *
- * <hr />
+ * <hr>
  * <p><strong>Copyright:</strong> Copyright (c) 2007, 2008</p>
  *
  * <p>HeatMap is free software; you can redistribute it and/or modify
