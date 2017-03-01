@@ -1,3 +1,5 @@
+package com.github.matthewbeckler.heatmap;
+
 import java.awt.*;
 import java.awt.image.BufferedImage;
 import java.text.DecimalFormat;

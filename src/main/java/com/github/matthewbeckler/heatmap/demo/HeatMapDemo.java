@@ -1,9 +1,14 @@
+package com.github.matthewbeckler.heatmap.demo;
+
+import com.github.matthewbeckler.heatmap.Gradient;
+import com.github.matthewbeckler.heatmap.HeatMap;
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
 /**
- * <p>This class shows the various options of the HeatMap.</p>
+ * <p>This class shows the various options of the com.github.matthewbeckler.heatmap.HeatMap.</p>
  *
  * <hr />
  * <p><strong>Copyright:</strong> Copyright (c) 2007, 2008</p>
